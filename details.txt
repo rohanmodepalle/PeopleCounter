@@ -1,3 +1,0 @@
-Went In: [1, 2, 4, 3, 7, 9, 10]
-Went Out: [5, 6, 8]
-Remaining Inside: 4
